@@ -1,2 +1,2 @@
-# prog-II-guia1
-Mi primer repo
+# Programación II - Guía 1
+Primer repositorio
